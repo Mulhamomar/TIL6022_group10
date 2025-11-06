@@ -1,4 +1,4 @@
-﻿,route_id,direction_id,day_type_name,time_period_name,stop_name,stop_id,average_ons,average_offs,average_load,num_trips,total_pop,median_age,percent_male,bg_area,pop_density,total_trips,total_ons,total_offs,average_flow,total_flow
+,route_id,direction_id,day_type_name,time_period_name,stop_name,stop_id,average_ons,average_offs,average_load,num_trips,total_pop,median_age,percent_male,bg_area,pop_density,total_trips,total_ons,total_offs,average_flow,total_flow
 0,1,0,weekday,MIDDAY_BASE,MASSACHUSETTS AVE @ MASSACHUS,188,3.9,6.2,21.2,19,868,63.4,0.488,0.035328929,24569.10029737952,95,370.5,589.0,10.1,959.5
 1,1,0,weekday,EARLY_AM,MASSACHUSETTS AVE @ WASHINGTO,10590,1.7,0.6,11.9,6,1211,34.7,0.521,0.060924993,19876.90010895857,30,51.0,18.0,2.3,69.0
 2,1,0,weekday,PM_PEAK,MASSACHUSETTS AVE @ CLEARWAY,91,3.4,1.1,24.8,14,1217,62.0,0.482,0.125586915,9690.500001532804,70,238.0,77.0,4.5,315.0
